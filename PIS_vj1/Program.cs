@@ -12,6 +12,7 @@ namespace PIS_vj1
         {
             Console.WriteLine("Hello, World!");
             //Lukaaaaa
+            Console.WriteLine("Pozdrav od Matea!");
         }
     }
 }
