@@ -12,5 +12,10 @@ namespace PIS_vj1
         {
             Console.WriteLine("Hi! Hellooo! :DDD");
         }
+
+        static void Conflict()
+        {
+            Console.WriteLine("CONFLICT!!!")
+        }
     }
 }
