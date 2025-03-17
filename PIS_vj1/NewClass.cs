@@ -13,6 +13,11 @@ namespace PIS_vj1
             Console.WriteLine("Hi! Hellooo! :DDD");
         }
 
+        static void Conflict()
+        {
+            Console.WriteLine("CONFLICT!!!")
+        }
+
         static void Introduce()
         {
             Console.WriteLine("I'm a new class!");
