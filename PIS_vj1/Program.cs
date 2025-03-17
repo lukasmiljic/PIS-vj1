@@ -11,6 +11,7 @@ namespace PIS_vj1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            //Lukaaaaa
         }
     }
 }
