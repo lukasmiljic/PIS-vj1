@@ -20,7 +20,7 @@ namespace PIS_vj1
 
         static void Introduce()
         {
-            Console.WriteLine("I'm a new class!");
+            Console.WriteLine("Bug fix!");
         }
     }
 }
