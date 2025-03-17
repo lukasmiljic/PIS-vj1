@@ -15,7 +15,7 @@ namespace PIS_vj1
 
         static void Conflict()
         {
-            Console.WriteLine("CONFLICT!!!")
+            Console.WriteLine("CONFLICT!!!");
         }
 
         static void Introduce()
